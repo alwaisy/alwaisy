@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any startup project stacked with React/NextJs/Vue
 - 📫 How to reach me => [Discord](https://dub.sh/amicoder-discord)
 
-old:: up 
+old:: up - 2023
 - 👋 Hi, I’m @awaisalwaisy
 - 👀 I’m interested to work in ['C#', 'Golang','Ruby']
 - 🌱 I’m currently learning ['Vue', 'React', 'NodeJs']
