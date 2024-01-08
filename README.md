@@ -1,3 +1,11 @@
+
+- 👋 Hi, I’m @awaisalwaisy
+- 👀 I’m interested to work in ['TypeScript', 'NextJs,'VueJs']
+- 🌱 I’m currently learning ['How to become Software Engineer']
+- 💞️ I’m looking to collaborate on any startup project stacked with React/NextJs/Vue
+- 📫 How to reach me => [Discord](https://dub.sh/amicoder-discord)
+
+old:: up 
 - 👋 Hi, I’m @awaisalwaisy
 - 👀 I’m interested to work in ['C#', 'Golang','Ruby']
 - 🌱 I’m currently learning ['Vue', 'React', 'NodeJs']
