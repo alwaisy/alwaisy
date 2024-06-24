@@ -6,8 +6,6 @@
 🎨 Building [SaaSyThursday](https://go.alwaisy.dev/saasy-thursday) - A all-in-one resource platform for SaaS makers.<br/><br/>
 📫 How to reach me => [Discord](https://go.alwaisy.dev/amicoder-discord)<br/><br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=alwaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 
