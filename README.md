@@ -1,26 +1,13 @@
+# 👋 Hi, I'm Awais!
+👩🏻‍💻 Software Engineer sharing about my journey and learnings on [Linkedin](https://go.alwaisy.dev/linkedin)<br/>
+👀 I’m interested in working in ['TypeScript', 'NextJs, 'VueJs']<br/>
+🌱 I’m currently learning ['How to become Software Engineer']<br/>
+💞️ I’m looking to collaborate on any startup project stacked with React/NextJs/Vue<br/>
+🎨 Building [SaaSyThursday](https://go.alwaisy.dev/saasy-thursday) - A all-in-one resource platform for SaaS makers.<br/>
+📫 How to reach me => [Discord](https://go.alwaisy.dev/amicoder-discord)<br/>
 
-- 👋 Hi, I’m @awaisalwaisy
-- 👀 I’m interested to work in ['TypeScript', 'NextJs,'VueJs']
-- 🌱 I’m currently learning ['How to become Software Engineer']
-- 💞️ I’m looking to collaborate on any startup project stacked with React/NextJs/Vue
-- 📫 How to reach me => [Discord](https://dub.sh/amicoder-discord)
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=alwaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-old:: up - 2023
-- 👋 Hi, I’m @awaisalwaisy
-- 👀 I’m interested to work in ['C#', 'Golang','Ruby']
-- 🌱 I’m currently learning ['Vue', 'React', 'NodeJs']
-- 💞️ I’m looking to collaborate on Vue3 and composition api
-- 📫 How to reach me => ['https://mohamedawais.vercel.app/#contact']
 
-<!---
-awaisalwaisy/awaisalwaisy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-old:: till 03 04 2023
-
-- 👋 Hi, I’m @awaisalwaisy
-- 👀 I’m interested in Ruby
-- 🌱 I’m currently learning Angular and typescript
-- 💞️ I’m looking to collaborate on Vue3 and composition api
-- 📫 How to reach me => please wait
