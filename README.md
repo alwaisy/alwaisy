@@ -7,9 +7,7 @@
 📫 How to reach me => [Discord](https://go.alwaisy.dev/amicoder-discord)<br/><br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=alwaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaisy&show_icons=true&theme=gruvbox&hide=contribs,prs)
+![Awais Alwaisy GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaisy&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alwaisy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alwaisy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/awaisalwaisy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/am-i-coder) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/awais-alwaisy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alvaisy) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alwaisy) 
